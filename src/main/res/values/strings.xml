@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WatchDoge</string>
+    <string name="no_account_yet_create_one">Нет учетной записи?  <b>Создайте!</b></string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="hi"></string>
+    <string name="logo">LOGO</string>
+    <string name="already_a_member_login">Уже зарегистрированны?  <b>Войдите!</b></string>
+    <string name="create_account">Create Account</string>
+    <string name="name">Name</string>
+    <string name="ErrorName">Введите действительное имя.</string>
+    <string name="ErrorEmail">Введите действительную почту</string>
+    <string name="ErrorPass">Введите действительный пароль</string>
+    <string name="welcome"></string>
+    <string name="authenticating">Авторизация…</string>
+    <string name="email">email</string>
+    <string name="file">settings</string>
+
+    <string name="ipWEB">10.0.2.2:8080</string>
+    <string name="netError">Проверьте ваше соединение!</string>
+
+</resources>
